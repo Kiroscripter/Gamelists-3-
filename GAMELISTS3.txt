@@ -1,5 +1,5 @@
 local Games = {
-  [18687417158] = "https://raw.githubusercontent.com/Kiroscripter/Dbbdndkdkdjdjd/refs/heads/main/110e89974fda5f47.lua",  -- Forsaken
+  [18687417158] = "https://raw.githubusercontent.com/Kiroscripter/Gay/refs/heads/main/obfuscated_script-1756832650862.lua",  -- Forsaken
 [71895508397153] = "https://raw.githubusercontent.com/Kiroscripter/LODKFKDBDHS/refs/heads/main/06f556c7583a0160.lua",  -- Die of death
   [10449761463] = "https://raw.githubusercontent.com/Kiroscripter/Hbhy/refs/heads/main/6c20325ca639993f.lua",  --Strongest battleground
   [116495829188952] = "https://raw.githubusercontent.com/Kiroscripter/Dead-rails/refs/heads/main/82b9f23859c5c98b.lua",  -- Dead rails lobby
